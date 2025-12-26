@@ -1,6 +1,6 @@
 ## Olá meu nome é Lucas Pugliesi Cardoso!
 
-Sou desenvolvedor full-stack utilizando PHP, Node.js ou C#, integração de APIs. Meu objetivo é impulsionar tanto o crescimento profissional.
+Sou desenvolvedor full-stack utilizando PHP, Node.js ou C#, integração de APIs.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
